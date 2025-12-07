@@ -1,0 +1,7 @@
+num1 , num2 = input("Enter two numbers separated by a space: ").split()
+num1 = float(num1)
+num2 = float(num2)
+print(f"Addition: {num1 + num2}\n")
+print(f"Subtraction: {num1 - num2}\n")
+print(f"Multiplication: {num1 * num2}\n")
+print(f"Division: {num1 / num2}\n")
