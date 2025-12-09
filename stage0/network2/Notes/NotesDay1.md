@@ -10,3 +10,5 @@
 ## MAC address in another hand is for small network like company or house 
 ## so all the devices can interact to each other with this MAC address
 
+[complete IP address calculations course](https://www.youtube.com/playlist?list=PLfd3S8S4nJobgxQpxP7dDYbg5kk_VsEtG)
+
