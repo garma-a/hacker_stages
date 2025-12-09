@@ -1,0 +1,24 @@
+"""
+- **21** – FTP (File Transfer Protocol)
+- **22** – SSH (Secure Shell)
+- **23** – Telnet
+- **25** – SMTP (Simple Mail Transfer Protocol)
+- **53** – DNS (Domain Name System)
+- **69** – TFTP (Trivial File Transfer Protocol)
+- **80** – HTTP (Web servers)
+- **88** – Kerberos
+- **110** – POP3 (Post Office Protocol)
+- **111** – RPCbind / portmapper (NFS)
+- **135** – Microsoft RPC
+- **137-139** – NetBIOS (Windows file sharing)
+- **143** – IMAP (Internet Message Access Protocol)
+- **161/162** – SNMP (Simple Network Management Protocol)
+- **389** – LDAP (Lightweight Directory Access Protocol)
+- **443** – HTTPS (Secure Web)
+- **445** – Microsoft-DS (SMB file sharing)
+- **512-514** – rlogin, rexec, rsh (remote shell services)
+- **631** – IPP (Internet Printing Protocol)
+- **873** – rsync
+- **993/995** – Secure IMAP/POP3
+- **1080** – SOCKS proxy (technically above 1023, but often targeted)
+"""
