@@ -19,5 +19,5 @@ def client():
     s.close()
 
 
-server()
-#client()
+#server()
+client()
